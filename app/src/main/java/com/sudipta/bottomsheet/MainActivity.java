@@ -1,7 +1,7 @@
 package com.sudipta.bottomsheet;
 
 /**
- * 1. add fragment BottomSheetfragment.
+ * 1. add fragment BottomSheetfragment and extends BottomSheetDialogFragment.
  * 2. add background xml file in drawable.
  * 3. add some style theme.
  **/
